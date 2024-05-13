@@ -1,0 +1,33 @@
+.About_first{
+    padding-top: 20px;
+    color: black;
+}
+
+.About_notice{
+    height: 58vh;
+    padding: 12px;
+    top: 0;
+    position: sticky;
+    border: 2px solid rgb(0, 132, 255);
+    border-radius: 12px;
+}
+
+.divi{
+    border: 2px solid rgb(0, 132, 255)
+}
+
+.Tour_guide{
+    font-size    : 3.6rem;
+    margin-bottom: 2.8rem;
+    margin-top   : 0.8rem;
+    font-family:"Sofia", sans-serif ;
+}
+
+.Traveler{
+    padding-bottom:50px;
+} 
+.experience_img img 
+{
+    width:100%; 
+   
+}
